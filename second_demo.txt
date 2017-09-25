@@ -1,2 +1,1 @@
-﻿github 第二次测试 初始化
-内容1：hello world
+﻿内容1：hello world
